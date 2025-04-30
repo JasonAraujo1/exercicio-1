@@ -64,6 +64,7 @@ O programa solicitará as seguintes informações ao usuário:
 - Nome
 - Matrícula
 
+
 Em seguida, exibirá os dados formatados no console.
 
 Agora você pode usar este exemplo como base para aprender e implementar os comandos `printf` e `scanf` em seus próprios projetos!

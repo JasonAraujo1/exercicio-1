@@ -2,6 +2,7 @@
 
 Este projeto demonstra a implementação prática do uso dos comandos `printf` e `scanf` na linguagem C, seguindo o guia descrito neste repositório.
 
+
 ## O que foi feito?
 
 1. **Inclusão da Biblioteca `<stdio.h>`**  
